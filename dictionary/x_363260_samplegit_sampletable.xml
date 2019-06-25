@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="SampleTable" max_length="40" name="x_363260_samplegit_sampletable" type="collection">
+        <element label="no 1" max_length="40" name="no_1" type="string"/>
+        <element label="no 2" max_length="40" name="no_2" type="string"/>
+    </element>
+</database>
