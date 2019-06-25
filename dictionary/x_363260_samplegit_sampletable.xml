@@ -2,5 +2,7 @@
     <element label="SampleTable" max_length="40" name="x_363260_samplegit_sampletable" type="collection">
         <element label="no 1" max_length="40" name="no_1" type="string"/>
         <element label="no 2" max_length="40" name="no_2" type="string"/>
+        <element label="no 3" max_length="40" name="no_3" type="string"/>
+        <element label="no 4" max_length="40" name="no_4" type="string"/>
     </element>
 </database>
